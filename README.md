@@ -1,4 +1,4 @@
- # mon premier projet github
+ # version B directement sur main
 
 je m entraine sur github
 
