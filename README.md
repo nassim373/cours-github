@@ -1,4 +1,6 @@
- # version A sur la branche conflit
+
+ # version B directement sur main
+
 
 je m entraine sur github
 
